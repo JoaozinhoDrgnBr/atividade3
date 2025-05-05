@@ -9,11 +9,25 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  intl: ^0.19.0
 
 dev_dependencies:
+  flutter_native_splash: ^2.2.10
   flutter_test:
     sdk: flutter
   flutter_lints: ^5.0.0
+  flutter_gen: ^4.0.0
 
 flutter:
   uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/translations/
+
+flutter_native_splash:
+  color: "#ffffff" # Cor de fundo da splash screen
+  image: assets/images/twitter.png # Caminho para o logo
+  android: true # Ativar para Android
+  ios: true # Ativar para iOS
