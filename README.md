@@ -72,9 +72,17 @@ Idiomas suportados:
 ## 🖼️ Exemplos (prints)
 📱 **Splash nativa**
 
+![image](https://github.com/user-attachments/assets/f55297e2-fccf-47af-887a-027946afc14e)
+
 📱 **Onboarding em Português**
 
+![](https://github.com/user-attachments/assets/b8071455-f346-43b4-9713-745c229ac1b7) ![image](https://github.com/user-attachments/assets/8bb1520a-2df8-4d2f-8e07-701ad29aba6d) ![image](https://github.com/user-attachments/assets/b4b8d844-6657-45c9-b28d-5129e49892d8)
+
+
 📱 **Onboarding em Inglês**
+
+![image](https://github.com/user-attachments/assets/2cbb405d-402d-48cf-82d5-5bbf77948940) ![image](https://github.com/user-attachments/assets/c4f98634-13c2-4120-9ee0-2b5a081465fc) ![image](https://github.com/user-attachments/assets/acc13ee9-dc49-4f6d-b747-62c902472c87)
+
 
 🛠️ Configuração do flutter_native_splash
 Adicione ao pubspec.yaml:
