@@ -100,3 +100,9 @@ Gere a splash com:
 ```
 flutter pub run flutter_native_splash:create
 ```
+
+## 💼 **Desenvolvido por:**
+
+- João Otávio Bazzo Zimermann
+- Ueslei Antunes
+- Felipe Zonta Silva
